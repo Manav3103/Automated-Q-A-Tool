@@ -23,8 +23,8 @@ An AI-powered Streamlit web-app that extracts text from PDF, DOCX, or TXT files 
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/ai-question-generator.git
-   cd ai-question-generator
+   git clone https://github.com/Manav3103/Automated-Q-A-Tool.git
+   cd Automated-Q-A-Tool
 ````
 
 2. **Install dependencies:**
